@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          selam app 3
+          selam app 34
         </a>
       </header>
     </div>
